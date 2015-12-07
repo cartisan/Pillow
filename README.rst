@@ -1,4 +1,4 @@
-Pillow
+Pillow 
 ======
 
 Python Imaging Library (Fork)
